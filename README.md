@@ -1,7 +1,7 @@
 # Hello-Microverse
 This is basically to create a heading with "Hello Microverse" and to also get acquinted with github flows, linters and .gitignore.
 
-screenshot
+
 
 Additional description about the project and its features.
 

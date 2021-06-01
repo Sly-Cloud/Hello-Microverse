@@ -32,12 +32,14 @@ Getting Started
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the issues page https://github.com/Sly-Cloud/Hello-Microverse/issues.
 
-Show your support
+<h3>Show your support</h3>
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+<h3>Acknowledgments</h3>
+
 Hat tip to anyone whose code was used
 Inspiration
 etc
